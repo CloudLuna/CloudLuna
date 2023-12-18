@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome to my github profile 👋
+
+## Electronic Engineer
+
+##Interests:
+-AI
+-Cloud
+-GCP
 
 <!--
 **CloudLuna/CloudLuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
