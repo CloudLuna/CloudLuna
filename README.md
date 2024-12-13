@@ -3,7 +3,7 @@ I'm Constanza, a Software Engineer with special interest in Cloud and AI and ver
 
 
 
-- ☁️ 🧑‍🍳 I’m currently working a very cool project
+- ☁️ 🧑‍🍳 I’m currently working on a very cool project
 - 🌱 I’m currently learning Cloudformation and Terraform
 - 💬 Ask me about anything, doesn't mean I have the answer but we can figure it out 😄
 
