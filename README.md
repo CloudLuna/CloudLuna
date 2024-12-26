@@ -7,17 +7,18 @@ I'm Constanza, a Software Engineer with special interest in Cloud and AI and ver
 - 🌱 I’m currently learning Cloudformation and Terraform
 - 💬 Ask me about anything, doesn't mean I have the answer but we can figure it out 😄
 
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,python,bash,html,java,git,github,jenkins,linux,ubuntu,vim,vscode&theme=dark&perline=9)](https://skillicons.dev)
+
+### Others:
+- **Compute and Batch Processing:** Sun Grid Engine, Batch Processing in VMs on Private Clouds.
+- p4, Jira
+- **Languages:** English (C1 – IELTS Academic), Spanish (Native), and learning Japanese 🇯🇵
+
 ### Let's connect! 
 [![](https://img.shields.io/badge/-Constanza%20Lorca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/constanza-lorca-luna/)](https://www.linkedin.com/in/constanza-lorca-luna/)
 [![](https://img.shields.io/badge/-@CloudLuna-%23181717?style=flat-square&logo=github)](https://github.com/CloudLuna)
 [![](https://img.shields.io/badge/-@Constanza-%23181717?style=flat-square&logo=gmail)](constanza.lorca.luna@gmail.com)
-
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,python,bash,html,java,git,github,jenkins,linux,ubuntu,vim,vscode&theme=dark&perline=9)](https://skillicons.dev)
-- **Compute and Batch Processing:** Sun Grid Engine, Batch Processing in VMs on Private Clouds.
-- Other: p4, Jira
-- **Languages:** English (C1 – IELTS Academic), Spanish (Native), and learning Japanese 🇯🇵
-
 <!--
 ![Bootstrap](https://img.shields.io/badge/-Ubuntu-05122A?style=flat-square&logo=ubuntu&color=353535) ![Bootstrap](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=Flask&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535) ![Bootstrap](https://img.shields.io/badge/-FastAPI-05122A?style=flat-square&logo=FastAPI&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat-square&logo=Visual-Studio&color=353535) ![Bootstrap](https://img.shields.io/badge/-Php-05122A?style=flat-square&logo=Php&color=353535) ![Bootstrap](https://img.shields.io/badge/-Mainflux-05122A?style=flat-square&logo=Mainflux&color=353535) ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=java&color=353535) ![Bootstrap](https://img.shields.io/badge/-Maven-05122A?style=flat-square&logo=Maven&color=353535) ![Bootstrap](https://img.shields.io/badge/-Wordpress-05122A?style=flat-square&logo=wordpress&color=353535) ![Bootstrap](https://img.shields.io/badge/-Windows_XP-05122A?style=flat-square&logo=windows-xp&color=353535) ![Bootstrap](https://img.shields.io/badge/-Windows-05122A?style=flat-square&logo=windows&color=353535) ![Bootstrap](https://img.shields.io/badge/-YouTube-05122A?style=flat-square&logo=youtube&color=353535) ![Bootstrap](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=c-sharp&color=353535) ![Bootstrap](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css&color=353535) ![Bootstrap](https://img.shields.io/badge/-.NET-05122A?style=flat-square&logo=.net&color=353535) ![Bootstrap](https://img.shields.io/badge/-Kotlin-05122A?style=flat-square&logo=kotlin&color=353535) ![Bootstrap](https://img.shields.io/badge/-Shell_Script-05122A?style=flat-square&logo=gnu-bash&color=353535) ![Bootstrap](https://img.shields.io/badge/-Heroku-05122A?style=flat-square&logo=heroku&color=353535) ![Bootstrap](https://img.shields.io/badge/-Spotify_Api-05122A?style=flat-square&logo=spotify&color=353535) ![Bootstrap](https://img.shields.io/badge/-SoundCloud_Api-05122A?style=flat-square&logo=SoundCloud&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git&color=353535) ![Bootstrap](https://img.shields.io/badge/-Telegram_Api-05122A?style=flat-square&logo=telegram&color=353535)
 
